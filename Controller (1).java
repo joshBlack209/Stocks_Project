@@ -1,6 +1,6 @@
 // The Stock program is following the MVC design template and this is our controller object.
 // The main functionality for buying and selling the stocks are in this controller object.
-// This is the ONLY file you may edit
+
 
 import java.util.ArrayList;
 import java.util.LinkedList;
