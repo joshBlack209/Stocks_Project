@@ -1,6 +1,6 @@
 // This is the Stock object that represents the concept of a stock
 // This object is finished and has passed all testing.
-// Do not make any changes to this object, its perfect as-is.
+
 
 public class Stock {
 	
